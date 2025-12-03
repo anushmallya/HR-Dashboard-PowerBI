@@ -34,7 +34,7 @@ This project enhanced my **analytical thinking, dashboard structuring**, and und
 ## 📂 Project Files
 - `HR Data Analysis Dashboard.pbix` – Power BI report
 - `Data` Folder – Contains the python code and the csv data generated via Python
-- `Dashboard Visuals` – Contains the screen shots of the dashboard
+- `Dashboard` Folder – Contains the screen shots of the dashboard
 
 ## 🙋‍♂️ Credits & Acknowledgments
 - Project inspired by a Tableau version from the YouTube channel **Data with Baraa**
