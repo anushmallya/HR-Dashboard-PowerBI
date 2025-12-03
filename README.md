@@ -32,7 +32,7 @@ This project was inspired by a Tableau-based HR dashboard tutorial on the "Data 
 This project enhanced my **analytical thinking, dashboard structuring**, and understanding of **insight-driven storytelling** using Power BI. It demonstrated how planning data models in advance improves dashboard clarity and user experience.
 
 ## 📂 Project Files
-- `HR Data Analysis Dashboard.pbix` – Power BI report
+- `HR Data Analysis Dashboard.pbit` – Power BI report
 - `Data` Folder – Contains the python code and the csv data generated via Python
 - `Dashboard` Folder – Contains the screen shots of the dashboard
 
